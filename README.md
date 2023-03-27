@@ -1,0 +1,1 @@
+# Karnaugh-Maps-and-Deriving-the-logic-circuit
